@@ -1,0 +1,1 @@
+console.log('¡probando nodejs!');  /* comando para instalar prompt sync(npm i prompt-sync) */
